@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+.box{
+    width: 800px;
+    height: 500px;
+    background-color: orange;
+    padding: 24px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
